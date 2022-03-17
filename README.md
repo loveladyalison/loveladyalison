@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @loveladyalison
-- 👀 I’m working on transitioning from an high school science teacher into a Biostatician. 
+- 👀 I’m working on transitioning from an high school science teacher into a Data Scientist. 
 - 🌱 I’m currently earning a graduate certification in biostatistics and python programming.
-- 💞️ I’m looking to collaborate on coding projects that will allow me to practice hone in on my programming skills in Biopython & RStudio. I am open to learning additional programming langages to gain expereince.
+- 💞️ I’m looking to collaborate on coding projects that will allow me to practice hone in on my programming skills. 
 - 📫 How to reach me loveladyalison@gmail.com or LinkedIn: https://www.linkedin.com/in/alison-lovelady/
 
 <!---
